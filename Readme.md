@@ -1,0 +1,1 @@
+#This website is reponsive for only Max-Width 471px.
